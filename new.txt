@@ -1,0 +1,11 @@
+.\.vscode
+.\arrayData.txt
+.\dataForTask2.txt
+.\lib.java
+.\log2.txt
+.\StringBuilder.txt
+.\students.txt
+.\Task1.java
+.\Task2.java
+.\Task3.java
+.\Task4.java
